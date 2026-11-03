@@ -1,0 +1,11 @@
+{
+  "name": "在一起 · 我们的小相册",
+  "short_name": "在一起",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ed",
+  "theme_color": "#f6f3ed",
+  "icons": [{ "src": "./favicon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any" }]
+}
